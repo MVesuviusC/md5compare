@@ -3,7 +3,9 @@
 Compare md5sums for files in two locations.
 
 ## Usage
+```
 md5compare.pl --verbose -1 "dir1/*.txt" -2 "dir2/*.txt"
+```
 
 The -1 and -2 arguments need to be in quotes 
 
